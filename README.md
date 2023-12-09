@@ -36,7 +36,3 @@ history command
 man command
 echo command
 hostname command
-
-
-
-
