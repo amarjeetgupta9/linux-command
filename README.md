@@ -5,6 +5,7 @@ All Linux commands fall into one of the following four categories
  2. **Shell functions**- Shell scripts (grouped commands).
  3. **Aliases**- Custom command shortcuts.
  4. **Executable programs**- Compiled and installed programs or scripts.
+    
 pwd command                    useradd command
 ls command                     userdel command
 cd command                     file command
